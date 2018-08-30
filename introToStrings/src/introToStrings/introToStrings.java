@@ -22,7 +22,7 @@ public class introToStrings
 			public static void verticalLetters()
 			{
 				
-				
+			//ok	
 				
 				
 			}
